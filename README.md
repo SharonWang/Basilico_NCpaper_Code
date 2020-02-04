@@ -10,8 +10,12 @@ Leukaemogenic mutations commonly disrupt cellular differentiation and/or enhance
 ## Notebooks
 - [Main mRNA Smart-Seq2 figures](https://github.com/SharonWang/Basilico_NCpaper_Code/blob/master/Code/SmartSeq2_Data_Analysis.ipynb): 
     * Regenerate main mRNA Smart-Seq2 data analysis plots (R code)
-    * The data required for the analysis can be downloaded from xxx
+    * The data required for the analysis are available upon requests due to the size.
     * The analysis was done using bglab package (Gottgens in-house pipeline), which can be downloaded from https://github.com/wjawaid/bglab
     
 - [Projection onto Wilson landscape](https://github.com/SharonWang/Basilico_NCpaper_Code/blob/master/Code/Projection_onto_Wilson_Data.ipynb): 
     * Project mRNA Smart-Seq2 data onto Wilson haematopoeitic landscape ([PMID: 29588278](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969381/)) (Python code based on [Scanpy](https://icb-scanpy.readthedocs-hosted.com/en/stable/))
+
+- [Bulk ATAC-Seq analysis](https://github.com/SharonWang/Basilico_NCpaper_Code/blob/master/Code/Bulk_ATACseq_analysis.ipynb)
+   * Regenerate the Fig2E in the main context of the paper (R code)
+   * This analysis also requires the installation of bglab R package
